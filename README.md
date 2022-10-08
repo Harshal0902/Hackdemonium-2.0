@@ -2,13 +2,15 @@
 
 ## 💡 Inspiration
 
+Correct evaluation of different degrees of burn is a bit challenging in the visual assessment method. The accuracy can be improved using imaging methods such as Laser Doppler Imaging, but it could be very expensive and not available at every clinic/hospital. Therefore to combat this issue, we came up with an idea for creating a web application where you just need to upload a picture of the area with burnt skin and get the information about the degree of burn. You can also get various first aid methods for the burn. This solution is very cost-effective and using ML will increase the correct evaluation of the burn.
+
 ## 💻 What it does
 
 Our web app "APP NAME" is built with features:
 
 - Upload a picture of the area with burnt skin and get the information about the degree of burn.
-- Know the steps to treat the burn.
-- Get the location about nearest hospitals.
+- Get the information about the first aid for the burn.
+- Get the location of the nearest hospitals.
 
 ## ⚙️ How we built it
 
