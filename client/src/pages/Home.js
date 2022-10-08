@@ -10,10 +10,10 @@ export default function Home() {
             <div className='md:grid md:grid-cols-2 items-center pt-10'>
                 <div className=''>
                     <h1 className='text-3xl md:text-6xl'>Who we are</h1>
-                    <p className='text-xl md:text-2xl py-4 tracking-wider'>About the web app.</p>
+                    <p className='text-xl md:text-2xl py-4 tracking-wider text-justify'>Correct evaluation of different degrees of burn is a bit challenging in the visual assessment method. Therefore to combat this issue, we came up with an idea for creating a web application where you just need to upload a picture of the area with burnt skin and get the information about the degree of burn.</p>
 
-                    <Link to="/music">
-                        <button className='bg-secondary py-2 px-8 rounded-md text-xl md:text-2xl'>Listen Music</button>
+                    <Link to="/skinBurn">
+                        <button className='bg-secondary py-2 px-8 rounded-md text-xl md:text-2xl'>Skin Burn Classifier</button>
                     </Link>
 
                 </div>
@@ -32,7 +32,7 @@ export default function Home() {
                     </p>
                     <ul className="text-xl">
                         <li className="list-disc">Upload a picture of the area with burnt skin and get the information about the degree of burn.</li>
-                        <li className="list-disc">Get the information about the first aid for the burn.</li>
+                        <li className="list-disc">Get the information about first aid for burn.</li>
                         <li className="list-disc">Get the location of the nearest hospitals.</li>
                     </ul>
                 </div>
