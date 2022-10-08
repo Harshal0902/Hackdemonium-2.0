@@ -1,4 +1,4 @@
-# APP NAME
+# Burn Out
 
 ## 💡 Inspiration
 
@@ -6,7 +6,7 @@ Correct evaluation of different degrees of burn is a bit challenging in the visu
 
 ## 💻 What it does
 
-Our web app "APP NAME" is built with features:
+Our web app "Burn Out" is built with features:
 
 - Upload a picture of the area with burnt skin and get the information about the degree of burn.
 - Get the information about the first aid for the burn.
@@ -35,7 +35,7 @@ Our web app "APP NAME" is built with features:
 - How to use Google teachable machine to predict the disease.
 - How to use Tensorflow.js to build the ML model.
 
-## 🚀 What's next for APP NAME
+## 🚀 What's next for Burn Out
 
 - Building a mobile app
 - Deploying the web app.
