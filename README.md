@@ -15,6 +15,7 @@ Our web app "Burn Out" is built with features:
 ## ⚙️ How we built it
 
 - Frontend: React Js
+- Backend: Node Js
 - Tensorflow.s: For ML and disease prediction
 - Google Teachable Machine: For training the model
 - Styling: Tailwind CSS
